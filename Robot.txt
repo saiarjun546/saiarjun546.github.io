@@ -1,3 +1,3 @@
 #Group 1
 User-agent: *
-Disallow: /
+Disallow: /saiarjun546.github.io
