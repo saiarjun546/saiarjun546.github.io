@@ -1,0 +1,12 @@
+#Group 1
+User-agent: Googlebot
+Disallow: /
+
+# Group 2
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
+
+#Group 3
+User-agent: *
+Disallow: /
